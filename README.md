@@ -50,8 +50,12 @@ The results highlight that:
 
 ---
 
-## 👥 Author
+## 👥 Authors
+
+* **Artur Damasceno**
 * **Lauro Aguiar**
+* **Lucas Godinho**
+* **Vinícius Nahan**
 
 ---
 **This is an academic and educational project developed as part of the Econometrics III coursework at Ibmec.**
